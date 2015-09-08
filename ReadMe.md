@@ -9,7 +9,7 @@ The workshop covers the following scripts:
 2. [Scraping webpages](py_scripts/get_html.py)
    
 3. [Scraping pdf pages](py_scripts/get_pdf.py)
-   Uses pdf files in ad_data.
+   Uses pdf files in [ad_data](ad_data/).
 
 4. [Using NY Times Articles API using nytimesarticle package](py_scripts/nyt_v1.py)
    
